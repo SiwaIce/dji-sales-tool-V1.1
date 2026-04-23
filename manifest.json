@@ -1,0 +1,8 @@
+{
+  "name":"DJI Enterprise Sales Tool",
+  "short_name":"DJI Sales",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#0a0a0a",
+  "theme_color":"#0f3460"
+}
